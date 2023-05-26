@@ -1,21 +1,29 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
+using TodoApp.Business.Services;
 using TodoApp.MVC.Models;
 
 namespace TodoApp.MVC.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ITodoService _todoService;
+        private int UserId => int.Parse(User.Claims.First(x => x.Type == ClaimTypes.NameIdentifier).Value);
+        private string FullName => User.Claims.First(x => x.Type == "FullName").Value;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ITodoService todoService)
         {
-            _logger = logger;
+            _todoService = todoService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            ViewBag.FullName = FullName;
+            var todos = await _todoService.GetTodosByUserId(UserId);
+            return View(todos);
         }
 
         public IActionResult Privacy()

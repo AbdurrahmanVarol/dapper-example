@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.deps.json
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.DataAccess.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.Entities.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\bin\Debug\net7.0\TodoApp.Entities.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\refint\TodoApp.DataAccess.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\TodoApp.DataAccess.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.DataAccess\obj\Debug\net7.0\ref\TodoApp.DataAccess.dll

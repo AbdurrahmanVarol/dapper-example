@@ -1,22 +1,65 @@
-html {
-  font-size: 14px;
-}
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+* {
+    padding: 0;
+    margin: 0;
 }
 
 body {
-  margin-bottom: 60px;
+    margin: 0;
+    min-width: 250px;
+    height: 100vh;
+   /* background: rgb(20, 30, 48);
+    background: linear-gradient(90deg, rgba(20, 30, 48, 1) 0%, rgba(36, 43, 85, 1) 100%, rgba(0, 212, 255, 1) 100%);
+       */
+}
+.main{    
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+#todoContent {
+    background-color: red;
+    width: 100%;
+    height: 70%;
+    background-color: #F6F1F1;
+    border: 1px solid #F6F1F1;
+    border-radius: 20px;
+    position: relative;
+}
+
+.content {
+    width: 50%;
+    height: 100%;
+  
+}
+
+#todoContent header {
+    text-align: center;
+    color: #F45050;
+}
+
+.close, #todoList li {
+    cursor: pointer;
+}
+
+    .close:hover {
+        background-color: darkred;
+        color: white !important;
+    }
+
+.checked {
+    color: white;
+    background-color: #7DCE13;
+    text-decoration: line-through;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 94%;
+}
+
+#todoList {
+    max-height: 60%;
 }

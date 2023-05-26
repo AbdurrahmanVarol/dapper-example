@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.Business.deps.json
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.Business.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.Business.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.DataAccess.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.Entities.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.DataAccess.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\bin\Debug\net7.0\TodoApp.Entities.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.AssemblyInfo.cs
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.csproj.CopyComplete
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\refint\TodoApp.Business.dll
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\TodoApp.Business.pdb
+C:\Users\User\source\repos\dapper-example\TodoApp\TodoApp.Business\obj\Debug\net7.0\ref\TodoApp.Business.dll
